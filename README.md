@@ -5,7 +5,7 @@ https://notebooklm.google.com/notebook/5cfc2420-c3b6-4dff-9e15-034e6566f505
 
 ## 📖 Contexto
 
-Este projeto tem como objetivo explorar a biodiversidade dos dinossauros ao longo do tempo geológico, utilizando o NotebookLM como ferramenta de apoio ao aprendizado ativo.
+Este projeto tem como objetivo explorar a biodiversidade dos dinossauros ao longo do tempo geológico, utilizando o NotebookLM como ferramenta de apoio baseada em inteligência artificial.
 
 A partir de dados fósseis e materiais complementares, busca-se compreender como a diversidade de dinossauros evoluiu durante os períodos Triássico, Jurássico e Cretáceo.
 
