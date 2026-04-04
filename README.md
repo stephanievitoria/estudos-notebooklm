@@ -3,6 +3,10 @@
 ## 🔗 Acesso ao NotebookLM
 https://notebooklm.google.com/notebook/5cfc2420-c3b6-4dff-9e15-034e6566f505
 
+## 📌 Sobre o projeto
+
+Este projeto foi desenvolvido como parte de um desafio prático da plataforma DIO, com o objetivo de explorar o uso de IA no aprendizado.
+
 ## 📖 Contexto
 
 Este projeto tem como objetivo explorar a biodiversidade dos dinossauros ao longo do tempo geológico, utilizando o NotebookLM como ferramenta de apoio baseada em inteligência artificial.
