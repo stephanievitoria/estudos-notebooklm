@@ -3,24 +3,24 @@
 ## 🔗 Acesso ao NotebookLM
 https://notebooklm.google.com/notebook/5cfc2420-c3b6-4dff-9e15-034e6566f505
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Este projeto foi desenvolvido como parte de um desafio prático da plataforma DIO, com o objetivo de explorar o uso de IA no aprendizado.
 
-## 📖 Contexto
+## Contexto
 
 Este projeto tem como objetivo explorar a biodiversidade dos dinossauros ao longo do tempo geológico, utilizando o NotebookLM como ferramenta de apoio baseada em inteligência artificial.
 
 A partir de dados fósseis e materiais complementares, busca-se compreender como a diversidade de dinossauros evoluiu durante os períodos Triássico, Jurássico e Cretáceo.
 
-## 🎯 Objetivos
+## Objetivos
 
 - Analisar a evolução da biodiversidade dos dinossauros ao longo do tempo
 - Identificar padrões de crescimento e queda na diversidade
 - Relacionar eventos de extinção com mudanças ambientais
 - Utilizar IA para organizar, interpretar e gerar insights a partir de múltiplas fontes
 
-## 📚 Fontes utilizadas
+## Fontes utilizadas
 
 - Dataset: Paleobiology Database (dados fósseis de dinossauros)
   https://paleobiodb.org/data1.2/occs/list.csv?base_name=Dinosauria  
@@ -37,7 +37,7 @@ A partir de dados fósseis e materiais complementares, busca-se compreender como
 - Escala do tempo geológico:
   https://stratigraphy.org/
 
-## 🤖 Engenharia de Prompts
+## Engenharia de Prompts
 
 ### Prompt 1
 "Analise o dataset e identifique padrões de biodiversidade ao longo do tempo"
@@ -69,9 +69,9 @@ A linhagem dos dinossauros não foi totalmente extinta: as aves são seus descen
 - Presença de termos técnicos complexos
 - Dificuldade em interpretar possíveis vieses do registro fóssil
 
-## 📘 Miniguia de Estudo
+## Miniguia de Estudo
 
-### 🦕 Evolução da biodiversidade dos dinossauros
+### Evolução da biodiversidade dos dinossauros
 
 - **Triássico:** surgimento dos primeiros dinossauros, com baixa diversidade  
 - **Jurássico:** aumento da diversidade e domínio dos dinossauros, com espécies gigantes  
@@ -79,7 +79,7 @@ A linhagem dos dinossauros não foi totalmente extinta: as aves são seus descen
 
 ---
 
-### ☄️ Extinção dos dinossauros
+### Extinção dos dinossauros
 
 - Ocorreu há cerca de 66 milhões de anos  
 - Principal causa: impacto de asteroide  
@@ -87,7 +87,7 @@ A linhagem dos dinossauros não foi totalmente extinta: as aves são seus descen
 
 ---
 
-### 🧬 Continuidade evolutiva
+### Continuidade evolutiva
 
 - Nem todos os dinossauros foram extintos  
 - As aves são descendentes diretas dos dinossauros  
@@ -95,7 +95,7 @@ A linhagem dos dinossauros não foi totalmente extinta: as aves são seus descen
 
 ---
 
-## 📖 Glossário
+## Glossário
 
 - **Biodiversidade:** variedade de espécies em um período  
 - **Extinção em massa:** desaparecimento de muitas espécies em pouco tempo  
@@ -105,13 +105,13 @@ A linhagem dos dinossauros não foi totalmente extinta: as aves são seus descen
 
 ---
 
-## 🔁 Prompts reutilizáveis
+## Prompts reutilizáveis
 
 - “Resuma este conteúdo de forma objetiva”  
 - “Identifique padrões ao longo do tempo”  
 - “Explique a relação entre os dados e eventos históricos”  
 - “Quais insights podem ser extraídos deste dataset?”
 
-## 👩‍💻 Autora
+## Autora
 
 Stephanie Soares 
